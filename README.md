@@ -6,5 +6,5 @@ It features:
 > A custom Fabrics design upload facility.
 > A token based two-way communication system between seller and buyer.
 > Google Firebase for storage.
-_ ___NOTE:__ _
-_ _THE CODE FILES WILL BE AVAILABLE AFTER JAN 11,2021_ _
+___NOTE:__
+THE CODE FILES WILL BE AVAILABLE AFTER JAN 11,2021
